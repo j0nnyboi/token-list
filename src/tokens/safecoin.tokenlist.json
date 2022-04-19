@@ -149,8 +149,8 @@
       }
     },
     {
-      "chainId": 101,
-      "address": "FCuoMii64H5Ee4eVWBjP18WTFS8iLUJmGi16Qti1xFQ2",
+      "chainId": 102,
+      "address": "24n6hzEPP69hX2kg168APr7nWLsWM4sbeY6zS2vYFSh1",
       "symbol": "EDB",
       "name": "Emerald Block",
       "decimals": 9,
@@ -166,7 +166,7 @@
       }
     },
     {
-      "chainId": 103,
+      "chainId": 102,
       "address": "7CsBNwgCNCX4dYV4LthFCb7Mk2vVebPeMcRvFYE6RfZe",
       "symbol": "safe",
       "name": "Safecoin",
