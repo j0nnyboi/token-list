@@ -1,6 +1,6 @@
 {
   "name": "@j0nnyboi/safe-token-registry",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "safecoin Token Registry",
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",
