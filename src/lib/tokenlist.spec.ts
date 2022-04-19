@@ -16,7 +16,7 @@ test('Token list is filterable by a tag', async (t) => {
     .filterByTag('nft')
     .getList();
 
-  t.false(list.some((item) => item.symbol === 'SOL'));
+  t.false(list.some((item) => item.symbol === 'SAFE'));
 });
 
 test('Token list can exclude by a tag', async (t) => {
