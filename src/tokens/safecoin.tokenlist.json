@@ -122,8 +122,22 @@
       }
     },
     {
+      "chainId": 101,
+      "address": "Safe1111111111111111111111111111111111111",
+      "symbol": "safe",
+      "name": "safecoin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png"
+    },
+     {
       "chainId": 102,
-      "address": "safe1111111111111111111111111111111111111",
+      "address": "Safe1111111111111111111111111111111111111",
+      "symbol": "safe",
+      "name": "safecoin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png"
+    },
+     {
+      "chainId": 103,
+      "address": "Safe1111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png"
