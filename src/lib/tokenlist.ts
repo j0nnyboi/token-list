@@ -61,7 +61,7 @@ export const CLUSTER_SLUGS: { [id: string]: ENV } = {
 
 export class GitHubTokenListResolutionStrategy {
   repositories = [
-    'https://raw.githubusercontent.com/j0nntboi/token-list/main/src/tokens/safecoin.tokenlist.json',
+    'https://raw.githubusercontent.com/j0nnyboi/token-list/main/src/tokens/safecoin.tokenlist.json',
   ];
 
   resolve = () => {
