@@ -1,6 +1,6 @@
 {
   "name": "safecoin Token List",
-  "logoURI": "https://raw.githubusercontent.com/j0nnyboi/token-list/main/assets/mainnet/1C2EYVrwmoXAGbiKirFFBeDFDYUBHPhDeg9trhibTND/logo.png",
+  "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf",
   "keywords": [
     "safecoin",
     "spl",
@@ -126,21 +126,21 @@
       "address": "Safe1111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png"
+      "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf"
     },
      {
       "chainId": 102,
       "address": "Safe1111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png"
+      "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf"
     },
      {
       "chainId": 103,
       "address": "Safe1111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png"
+      "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf"
     },
     {
       "chainId": 102,
