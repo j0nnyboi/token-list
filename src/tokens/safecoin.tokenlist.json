@@ -1,6 +1,6 @@
 {
   "name": "safecoin Token List",
-  "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf",
+  "logoURI": "https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin_Icon.png",
   "keywords": [
     "safecoin",
     "spl",
@@ -64,21 +64,21 @@
       "address": "Safe111111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
-      "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf"
+      "logoURI": "https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin_Icon.png"
     },
      {
       "chainId": 102,
       "address": "Safe111111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
-      "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf"
+      "logoURI": "https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin_Icon.png"
     },
      {
       "chainId": 103,
       "address": "Safe111111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
-      "logoURI": "https://github.com/Fair-Exchange/safecoinwiki/blob/master/Logos/SafeCoin/Safecoin_Logo_Full_Transparent.pdf"
+      "logoURI": "https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin_Icon.png"
     },
     {
       "chainId": 102,
