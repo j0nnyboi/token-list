@@ -64,6 +64,7 @@
       "address": "Safe111111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin_Icon.png"
     },
      {
@@ -71,6 +72,7 @@
       "address": "Safe111111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin_Icon.png"
     },
      {
@@ -78,6 +80,7 @@
       "address": "Safe111111111111111111111111111111111111111",
       "symbol": "safe",
       "name": "safecoin",
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin_Icon.png"
     },
     {
