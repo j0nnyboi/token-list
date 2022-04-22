@@ -1,11 +1,11 @@
 {
   "name": "@j0nnyboi/safe-token-registry",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "safecoin Token Registry",
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",
   "module": "dist/module/index.js",
-  "repository": "https://github.com/solana-labs/token-list",
+  "repository": "https://github.com/j0nnyboi/token-list",
   "license": "Apache",
   "keywords": [],
   "scripts": {
@@ -38,7 +38,7 @@
     "reset-hard": "git clean -dfx && git reset --hard && npm i",
     "prepare-release": "run-s reset-hard test cov:check doc:html version doc:publish",
     "purge:cdn": "run-s purge:cdn:*",
-    "purge:cdn:safecoin": "npx req https://purge.jsdelivr.net/gh/safecoin-labs/token-list@main/src/tokens/safecoin.tokenlist.json"
+    "purge:cdn:safecoin": "npx req https://purge.jsdelivr.net/gh/j0nnyboi/token-list@main/src/tokens/safecoin.tokenlist.json"
   },
   "engines": {
     "node": ">=10"
